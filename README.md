@@ -1,7 +1,8 @@
 # Patent_analysis_PRLI
 ![image](https://github.com/lymgz/Patent_PRLI/assets/50073088/fe8724cb-3470-446a-95ac-f3ece9b59246)
-## Technology Status Tracing and Trends of Construction Robotics: A Patent Analysis
-## DOI: 
+### Technology Status Tracing and Trends of Construction Robotics: A Patent Analysis
+DOI:
+Authors: 
 
 ## Claim
 This repository is used to present part of the paper calculating and generating the process of the figures and table, it is worth noting that the final generation of the figure in the paper, but also used, including, EXCEL, OriginPro, Vosview and other tools. Therefore, the final presentation is based on the content of the paper.The files have been successfully run on the author's computer.
@@ -12,7 +13,6 @@ This repository is used to present part of the paper calculating and generating 
 3. The " evolution path tracing" folder shows figure 13 in section 4.
 4. The program is used to calculate the scattering position of the bubble chart, the specific steps are shown in subsection 3.5 of this paper.
 ![image](https://github.com/lymgz/Patent_PRLI/assets/50073088/6750d8c5-dd1a-4d0d-84ed-b7de550ecb0e)
-![image](https://github.com/lymgz/Patent_PRLI/assets/50073088/cef7b092-fa1f-45ed-b0f2-a95ec6578082)
 
 
 ## Table 3: Semantic similarity folder
