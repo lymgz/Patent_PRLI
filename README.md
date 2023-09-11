@@ -1,4 +1,7 @@
 # Patent_analysis_PRLI
+## Claim
+This repository is used to show part of the paper to calculate and generate the process of the figure, it is worth noting that the final generation of the figure in the paper, but also used, including, EXCEL, OriginPro, Vosview and other tools. Therefore, the final presentation is based on the content of the paper.
+
 ## Figure 13: evolution path tracing folder
 1. Reviewers are requested to download the file to their local hard disk and run the jupyter notebook program.
 2. The author is using python 3.10.9
