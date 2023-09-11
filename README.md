@@ -20,12 +20,16 @@ This repository is used to present part of the paper calculating and generating 
 2. The author's python environment is 3.10.9 with CPU intel i9, memory 16G.
 3. A file "sematic similarity 4 N-gram.ipynb" in "semantic similarity" folder shows Table 3 in section 5.
 4. To calculated the Cosine Similarity Score/Euclidean Distance Score/Jaccard Similarity Score
+![image](https://github.com/lymgz/Patent_PRLI/assets/50073088/c91afbcf-71ab-4426-ac9a-bffbac96e567)
+
 
 ## Figure 16: Semantic similarity folder
 1. Reviewers are requested to download the file to their local hard disk and run the jupyter notebook program.
 2. The author's python environment is 3.10.9 with CPU intel i9, memory 16G.
 3.  A file "sematic similarity 1 LDA.ipynb" in "semantic similarity" folder shows Figure 16 in section 5.
 4.  Figure 16. The result from LDA-based topic modelling tested by increasing the topic number.
+![image](https://github.com/lymgz/Patent_PRLI/assets/50073088/d9fda61d-cfd1-405b-b245-6501fcb94ed5)
+
 
 ## Figure 17 : Comparison_of_topicwizard_algorithms floder
 Code for journal paper manuscript titled"Technology Status Tracing and Trends of Construction Robotics: A Patent Analysis"
