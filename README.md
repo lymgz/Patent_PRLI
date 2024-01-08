@@ -1,8 +1,9 @@
 # Patent_analysis_PRLI
 ![image](https://github.com/lymgz/Patent_PRLI/assets/50073088/fe8724cb-3470-446a-95ac-f3ece9b59246)
 ### Technology Status Tracing and Trends of Construction Robotics: A Patent Analysis
-DOI:
-Authors: 
+DOI:10.1016/j.wpi.2023.102259
+Link: https://authors.elsevier.com/sd/article/S0172-2190(23)00089-3
+Authors: Yuming Liu , Aidi Hizami bin Alias , Nuzul Azam Haron , Nabilah Abu Bakar , Hao Wang 
 
 ## Claim
 This repository is used to present part of the paper calculating and generating the process of the figures and table, it is worth noting that the final generation of the figure in the paper, but also used, including, EXCEL, OriginPro, Vosview and other tools. Therefore, the final presentation is based on the content of the paper.The files have been successfully run on the author's computer.
